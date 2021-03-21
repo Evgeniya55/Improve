@@ -7,8 +7,6 @@
 
 import UIKit
 
-@IBDesignable
-
 class StyledButton: UIButton {
     
     required init?(coder: NSCoder) {

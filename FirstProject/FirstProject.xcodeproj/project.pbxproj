@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		A41733E62605DB8800C2BE4C /* StyledButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A41733E52605DB8800C2BE4C /* StyledButton.swift */; };
-		E70A5F0126038F8C007B949D /* Classwork1803.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70A5F0026038F8C007B949D /* Classwork1803.swift */; };
 		E70A5F0626038FBA007B949D /* StyledTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70A5F0526038FBA007B949D /* StyledTextField.swift */; };
 		E729440325FF8C040013FDEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E729440225FF8C040013FDEF /* AppDelegate.swift */; };
 		E729440525FF8C040013FDEF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E729440425FF8C040013FDEF /* SceneDelegate.swift */; };
@@ -37,7 +36,6 @@
 
 /* Begin PBXFileReference section */
 		A41733E52605DB8800C2BE4C /* StyledButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyledButton.swift; sourceTree = "<group>"; };
-		E70A5F0026038F8C007B949D /* Classwork1803.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classwork1803.swift; sourceTree = "<group>"; };
 		E70A5F0526038FBA007B949D /* StyledTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyledTextField.swift; sourceTree = "<group>"; };
 		E72943FF25FF8C040013FDEF /* FirstProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E729440225FF8C040013FDEF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -102,7 +100,6 @@
 				A41733E52605DB8800C2BE4C /* StyledButton.swift */,
 				E729440425FF8C040013FDEF /* SceneDelegate.swift */,
 				E729440625FF8C040013FDEF /* LoginViewController.swift */,
-				E70A5F0026038F8C007B949D /* Classwork1803.swift */,
 				E729440825FF8C040013FDEF /* Main.storyboard */,
 				E729440B25FF8C060013FDEF /* Assets.xcassets */,
 				E729440D25FF8C060013FDEF /* LaunchScreen.storyboard */,
@@ -242,7 +239,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A41733E62605DB8800C2BE4C /* StyledButton.swift in Sources */,
-				E70A5F0126038F8C007B949D /* Classwork1803.swift in Sources */,
 				E729440725FF8C040013FDEF /* LoginViewController.swift in Sources */,
 				E729440325FF8C040013FDEF /* AppDelegate.swift in Sources */,
 				E70A5F0626038FBA007B949D /* StyledTextField.swift in Sources */,
