@@ -15,6 +15,7 @@
 		E729440A25FF8C040013FDEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E729440825FF8C040013FDEF /* Main.storyboard */; };
 		E729440C25FF8C060013FDEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E729440B25FF8C060013FDEF /* Assets.xcassets */; };
 		E729440F25FF8C060013FDEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E729440D25FF8C060013FDEF /* LaunchScreen.storyboard */; };
+		E75A3B8E2608CC0600AF28CA /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E75A3B8D2608CC0600AF28CA /* RegistrationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E729441025FF8C060013FDEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E729441525FF8C060013FDEF /* FirstProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E729442025FF8C060013FDEF /* FirstProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E75A3B8D2608CC0600AF28CA /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				E729440425FF8C040013FDEF /* SceneDelegate.swift */,
 				E729440625FF8C040013FDEF /* LoginViewController.swift */,
 				E729440825FF8C040013FDEF /* Main.storyboard */,
+				E75A3B8D2608CC0600AF28CA /* RegistrationViewController.swift */,
 				E729440B25FF8C060013FDEF /* Assets.xcassets */,
 				E729440D25FF8C060013FDEF /* LaunchScreen.storyboard */,
 				E729441025FF8C060013FDEF /* Info.plist */,
@@ -240,6 +243,7 @@
 			files = (
 				A41733E62605DB8800C2BE4C /* StyledButton.swift in Sources */,
 				E729440725FF8C040013FDEF /* LoginViewController.swift in Sources */,
+				E75A3B8E2608CC0600AF28CA /* RegistrationViewController.swift in Sources */,
 				E729440325FF8C040013FDEF /* AppDelegate.swift in Sources */,
 				E70A5F0626038FBA007B949D /* StyledTextField.swift in Sources */,
 				E729440525FF8C040013FDEF /* SceneDelegate.swift in Sources */,
